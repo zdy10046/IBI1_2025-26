@@ -17,7 +17,7 @@ for hr in heart_rates:
         normal += 1
     else:
         high += 1
-#Identift if the heart rate is low, normal or high and count the number of patients in each category
+#Identify if the heart rate is low, normal or high and count the number of patients in each category
 print(f"Low heart rate patients: {low}")
 print(f"Normal heart rate patients: {normal}")
 print(f"High heart rate patients: {high}")
